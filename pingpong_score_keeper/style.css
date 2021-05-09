@@ -1,0 +1,87 @@
+.heading {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  align-items: center;
+}
+
+img {
+  margin-top: 5px;
+  width: 30%;
+}
+
+.name {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5px solid black;
+}
+
+.scores {
+  margin-top: 5px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5px solid black;
+}
+.p1 {
+  font-size: 35px;
+  margin-right: 15px;
+}
+.p2 {
+  font-size: 35px;
+  margin-left: 15px;
+}
+
+.score_set {
+  margin-top: 5px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5px solid black;
+}
+
+form {
+  font-size: 25px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.game {
+  font-size: 20px;
+}
+
+.pbuttons {
+  margin-top: 5px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5px solid black;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+}
+.p1b {
+  background-color: #f44336;
+}
+
+.p2b {
+  background-color: #008cba;
+}
+
+.reset {
+  background-color: #4caf50;
+}
